@@ -3,7 +3,7 @@
 
 I'm Ryu HyunDam
 
-I'm learning about C, C# <img src="https://img.shields.io/badge/C-0BF8F8?style=flat-square&logo=&logoColor=black"/>
+I'm learning about C, C# <img src="https://img.shields.io/badge/-0BF8F8?style=flat-square&logo=C&logoColor=black"/>
 
 My Goal : Game Developer
 
