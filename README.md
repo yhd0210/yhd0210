@@ -1,9 +1,9 @@
 ## 
-![1](https://woc.aises.org/sites/default/files/styles/image730x495/public/March2020-Student-Illo-BLOGPOST-FNL.jpg?itok=sfPCAQLh)
+![Hyundam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhd0210&&show_icons=true&theme=radical)
 
-I'm Ryu HyunDam
+I'm Ryu Hyun Dam
 
-I'm learning about C, C# 
+I'm learning about C, C#, Python
 
-My Goal : Game Developer
+My Goal : AI Developer
 
