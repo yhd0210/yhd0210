@@ -9,5 +9,5 @@ I'm Ryu Hyun Dam
 
 I'm learning about C, C#, Python
 
-My Goal : AI Developer
+My Goal : ML Engineer
 
