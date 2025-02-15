@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Ryu_HyunDam%&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Ryu_Hyun_Dam%&fontSize=60)
 
 ![Hyundam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhd0210&&show_icons=true&theme=radical)
 
